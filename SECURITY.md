@@ -10,7 +10,7 @@ Send details to [admin@digital.education.gov.uk](mailto:admin@digital.education.
 
 * the website, page or repository where the vulnerability can be observed
 * a brief description of the vulnerability
-* optionally, the type of vulnerability and any related [OWASP category](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project)
+* optionally, the type of vulnerability and any related [OWASP category](https://owasp.org/www-community/vulnerabilities/)
 * non-destructive exploitation details
 
 ## Scope
