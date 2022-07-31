@@ -34,6 +34,5 @@ The DfE has a contributors code of conduct, which you can find here: [CODE_OF_CO
 
 ### Further reading and inspiration about responsible disclosure and `SECURITY.md`
 
-* [https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy]
-* [https://www.ncsc.gov.uk/information/vulnerability-reporting]
-* [https://github.com/Trewaters/security-README]
+* [Ministry of Justice vulnerability disclosure policy](https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy)
+* [NCSC vulnerability reporting](https://www.ncsc.gov.uk/information/vulnerability-reporting)
