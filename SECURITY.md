@@ -6,7 +6,7 @@ This is the security notice for all DfE (Department for Education) repositories.
 
 The Department for Education is an advocate of responsible vulnerability disclosure. If you’ve found a vulnerability, we would like to know so we can fix it.
 
-Send details to opensource@digital.education.gov.uk, including:
+Send details to vulnerability.management@education.gov.uk, including:
 
 * the website, page or repository where the vulnerability can be observed
 * a brief description of the vulnerability
@@ -20,7 +20,7 @@ The following are **not** in scope:
 * volumetric vulnerabilities, for example overwhelming a service with a high volume of requests
 * reports indicating that our services do not fully align with "best practice", for example missing security headers
 
-If you are not sure, you can still contact us via email at opensource@digital.education.gov.uk.
+If you are not sure, you can still contact us via email at vulnerability.management@education.gov.uk
 
 ## Bug bounty
 
