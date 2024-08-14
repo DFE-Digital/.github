@@ -10,6 +10,8 @@ If you believe you have found a security vulnerability, please submit your repor
 
 https://hackerone.com/41ff5198-0e21-4656-9f54-03cce570d7ff/embedded_submissions/new
 
+Up to date details with the best way to contact DfE can be found in our [central security.txt file](https://vdp.security.education.gov.uk/.well-known/security.txt).
+
 In your report please include details of:
 
 * the website, page or repository where the vulnerability can be observed
@@ -24,7 +26,7 @@ The following are **not** in scope:
 * volumetric vulnerabilities, for example overwhelming a service with a high volume of requests
 * reports indicating that our services do not fully align with "best practice", for example missing security headers
 
-If you are not sure, you can still contact us via email at <CHANGE TO VDP>.
+If you are not sure, you can still contact us via email at [vulnerability.management@education.gov.uk](mailto:vulnerability.management@education.gov.uk).
 
 ## Bug bounty
 
