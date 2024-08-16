@@ -6,12 +6,20 @@ This is the security notice for all DfE (Department for Education) repositories.
 
 The Department for Education is an advocate of responsible vulnerability disclosure. If you’ve found a vulnerability, we would like to know so we can fix it.
 
-Send details to vulnerability.management@education.gov.uk, including:
+
+If you believe you have found a security vulnerability, please submit your report to us using the following link:
+
+https://hackerone.com/41ff5198-0e21-4656-9f54-03cce570d7ff/embedded_submissions/new
+
+Up to date details with the best way to contact DfE can be found in our [central security.txt file](https://vdp.security.education.gov.uk/.well-known/security.txt).
+
+In your report please include details of:
+
 
 * the website, page or repository where the vulnerability can be observed
 * a brief description of the vulnerability
 * optionally, the type of vulnerability and any related [OWASP category](https://owasp.org/www-community/vulnerabilities/)
-* non-destructive exploitation details
+* steps to reproduce. These should be a benign, non-destructive, proof of concept. This helps to ensure that the report can be triaged quickly and accurately. It also reduces the likelihood of duplicate reports, or malicious exploitation of some vulnerabilities, such as sub-domain takeovers.
 
 ## Scope
 
@@ -20,11 +28,24 @@ The following are **not** in scope:
 * volumetric vulnerabilities, for example overwhelming a service with a high volume of requests
 * reports indicating that our services do not fully align with "best practice", for example missing security headers
 
-If you are not sure, you can still contact us via email at vulnerability.management@education.gov.uk
+
+If you are not sure, you can still contact us via email at [vulnerability.management@education.gov.uk](mailto:vulnerability.management@education.gov.uk).
 
 ## Bug bounty
 
-Unfortunately, the DfE doesn't offer a paid bug bounty programme. The DfE will make efforts to show appreciation to people who take the time and effort to disclose vulnerabilities responsibly.
+Unfortunately, the DfE doesn't offer a paid bug bounty programme. The DfE will make efforts to show appreciation to people who take the time and effort to disclose vulnerabilities responsibly via our [thanks.txt](https://vdp.security.education.gov.uk/thanks.txt).
+
+## What to expect
+
+After you have submitted your report, we will respond to your report within 5 working days and aim to triage your report within 10 working days. We’ll also aim to keep you informed of our progress.
+
+Priority for remediation is assessed by looking at the impact, severity and exploit complexity. Vulnerability reports might take some time to triage or address. You are welcome to enquire on the status but should avoid doing so more than once every 14 days. This allows our teams to focus on the remediation.
+
+We will notify you when the reported vulnerability is remediated, and you may be invited to confirm that the solution covers the vulnerability adequately.
+
+Once your vulnerability has been resolved, we welcome requests to disclose your report. We’d like to unify guidance to affected users, so please do continue to coordinate public release with us.
+
+Where a report qualifies, we will offer to include you on [our thanks and acknowledgement page](https://vdp.security.education.gov.uk/thanks.txt). We will ask you to confirm the details you want included before they are published.
 
 ## Code of Conduct
 
