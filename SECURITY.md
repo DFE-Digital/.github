@@ -11,8 +11,6 @@ Up to date contact information for DfE can be found in our [central security.txt
 
 In your report please include details of:
 
-
-In your report include details of:
 * the website, page or repository where the vulnerability can be found
 * a brief description of the vulnerability
 * optionally, the type of vulnerability and any related [OWASP category](https://owasp.org/www-community/vulnerabilities/)
