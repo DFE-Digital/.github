@@ -50,6 +50,5 @@ DfE has a contributors [code of conduct](https://github.com/dfe-digital/.github/
 ---
 
 ### Further reading and inspiration about responsible disclosure and `SECURITY.md`
-
-* [Ministry of Justice vulnerability disclosure policy](https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy)
+* [Department for Education vulnerability disclosure policy](https://www.gov.uk/guidance/report-a-vulnerability-on-a-department-for-education-system)
 * [NCSC vulnerability reporting](https://www.ncsc.gov.uk/information/vulnerability-reporting)
